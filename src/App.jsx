@@ -24,9 +24,9 @@ const App=()=> {
         <p style={{color: 'blue'}}>UseRef Input Start</p>
         <UserRefInput />
         <p style={{color: 'red',marginBottom:'50px'}}>UseRef Input ends</p>
-        <p style={{color: 'blue'}}>UseRef Input Start</p>
+        <p style={{color: 'blue'}}>ClassCss Start</p>
         <ClassCss />
-        <p style={{color: 'red',marginBottom:'50px'}}>UseRef Input ends</p>
+        <p style={{color: 'red',marginBottom:'50px'}}>ClassCss ends</p>
       </div>
     
   )
