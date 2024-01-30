@@ -9,7 +9,14 @@ Currently, two official plugins are available:
 
 
 by using UseRef(), it makes easy to change anything without writing a long code;
+
 in app.jsx : the basic way to use UseRef() is shown
+
 in Attribute.jsx: the way to add and change an image on react and how to set height and width of the image through the react ;
+
 UserRefInput: how to take input and show it in alert 
-ClassCss: how to edit and add a cls of tailwind or boostrap 
+
+ClassCss: how to edit and add a cls of tailwind or boostrap
+
+MutedValue: this will show the result without changing anything from the webpage; this one is actually use for any inner calculation
+

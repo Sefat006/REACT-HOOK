@@ -2,6 +2,7 @@ import { useRef, useState } from 'react'
 import Attribute from './Component/Attribute';
 import UserRefInput from './Component/UserRefInput';
 import ClassCss from './Component/ClassCss';
+import MutedValue from './Component/MutedValue';
 
 const App=()=> {
 
@@ -27,6 +28,9 @@ const App=()=> {
         <p style={{color: 'blue'}}>ClassCss Start</p>
         <ClassCss />
         <p style={{color: 'red',marginBottom:'50px'}}>ClassCss ends</p>
+        <p style={{color: 'blue'}}>MutedValue Start</p>
+        <MutedValue />
+        <p style={{color: 'red',marginBottom:'50px'}}>MutedValue ends</p>
       </div>
     
   )
